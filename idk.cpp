@@ -8,6 +8,8 @@ idk::idk(QWidget *parent)
     , ui(new Ui::idk)
 {
     ui->setupUi(this);
+    //person1.setAge();
+
 }
 
 idk::~idk()

@@ -58,6 +58,9 @@ void MainWindow::on_pushButton_2_clicked()
     ui->lbl_cal->setText(textCal);
     ui->lbl_stat->setText(stat);
 
+    /*r = new idk(this);
+    r->show();*/
+
 }
 
 
